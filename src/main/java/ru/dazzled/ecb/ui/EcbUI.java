@@ -30,6 +30,7 @@ public class EcbUI extends UI {
     @Override
     protected void init(VaadinRequest vaadinRequest) {
         final VerticalLayout layout = new VerticalLayout();
+        layout.setSizeFull();
         layout.setMargin(true);
         setContent(layout);
 
