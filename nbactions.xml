@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-jboss-as:redeploy</actionName>
+            <displayName>jboss-as:redeploy</displayName>
+            <goals>
+                <goal>jboss-as:redeploy</goal>
+            </goals>
+        </action>
+    </actions>
